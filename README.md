@@ -20,9 +20,9 @@ Soy Folco. Soy un estudiante de Desarrollo de Software, actualmente perfeccionan
 Estoy siempre en busca de nuevos retos y oportunidades para mejorar mis habilidades y conocimientos en el desarrollo de software.
 
 ### 🔭 Actualmente trabajando en:
-- Aplicaciones web con Python y Django
-- Desarrollo de APIs con Django REST Framework
-- Proyectos personales con Flask y PostgreSQL
+- Aplicaciones web
+- Desarrollo de APIs
+- Proyectos personales
 
 ### 📫 ¡Conectemos!
 - [LinkedIn](https://www.linkedin.com/in/folco-carril/) 
