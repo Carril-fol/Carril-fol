@@ -1,14 +1,54 @@
-# Hi everyone :wave:
+# Hi there! 👋 I'm Folco Carril
 
-🌍 Backend developer currently studying at university.<br>
-⚙️ I focus on technologies like Python, Flask and Django.<br>
-💅 Beyond my studies, I enjoy exploring new technologies and creating innovative projects.<br>
+## 💻 About Me
 
+I'm a Backend Developer passionate about building scalable and maintainable applications.
 
+I enjoy designing REST APIs, working with databases, and learning new technologies that help me write cleaner and more efficient code.
 
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/abranico/) 
+Currently, I'm expanding my knowledge in Information Technology while developing personal projects to improve my backend development skills.
 
-### 🔨 Technologies
+- 🌱 Currently learning **FastAPI, Software Architecture and Docker**
+- 💼 Looking for my first opportunity in the IT industry
+- 🚀 Interested in Backend Development and Web APIs
+- 📍 Argentina
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,postgresql,mongodb,docker,postman,git)](https://skillicons.dev)
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,django)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vscode)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abranico&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abranico&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abranico
+- 📧 Email: your@email.com
+
+---
+
+> *"Always learning, always building."* 🚀
